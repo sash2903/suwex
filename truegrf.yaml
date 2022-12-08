@@ -1,4 +1,7 @@
 description: A new TrueGRF project
+grfid: f2f57220
 license: CC0-1.0
+name: suwex
 type: townname
+url: https://github.com/sash2903/suwex
 version: 6
